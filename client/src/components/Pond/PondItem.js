@@ -27,7 +27,7 @@ export default class PondItem extends Component {
             <MDBBtn
               color="warning"
               size="sm"
-            >Edit</MDBBtn>
+            >Update</MDBBtn>
             </Link>
             <MDBBtn
             color="danger"

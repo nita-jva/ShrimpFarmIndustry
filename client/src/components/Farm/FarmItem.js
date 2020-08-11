@@ -51,7 +51,7 @@ export default class FarmItem extends Component {
             <MDBBtn
               color="warning"
               size="sm"
-            >Edit</MDBBtn>
+            >Update</MDBBtn>
           </Link>
           <MDBBtn
               color="danger"
